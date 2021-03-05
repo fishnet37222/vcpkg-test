@@ -1,0 +1,8 @@
+Package: expat
+Version: 2020-08-18
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 80535c1bc6116dd73de5a6ad4fbf24ac7b5b69fe
+Description: XML parser library written in C
+Type: Port
+Status: install ok half-installed

@@ -1,0 +1,9 @@
+Package: boost-integer
+Version: 1.75.0
+Depends: boost-assert, boost-compatibility, boost-config, boost-core, boost-detail, boost-static-assert, boost-throw-exception, boost-vcpkg-helpers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 344d0b20e57f54416f6093c633d7640feb13014d
+Description: Boost integer module
+Type: Port
+Status: install ok installed

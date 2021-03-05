@@ -1,0 +1,10 @@
+Package: tiff
+Version: 4.1.0
+Port-Version: 1
+Depends: libjpeg-turbo, liblzma, zlib
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 55821ec6d1c04b1e2164c62eb64cdc2aa0e4c188
+Description: A library that supports the manipulation of TIFF image files
+Type: Port
+Status: install ok installed
