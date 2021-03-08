@@ -1,9 +1,0 @@
-Package: boost-io
-Version: 1.75.0
-Depends: boost-config, boost-vcpkg-helpers
-Architecture: x64-windows
-Multi-Arch: same
-Abi: 47533750e0390de13a86ab7f0add5785b92c9a99
-Description: Boost io module
-Type: Port
-Status: install ok installed

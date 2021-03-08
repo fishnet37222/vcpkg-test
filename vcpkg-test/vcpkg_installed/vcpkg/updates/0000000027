@@ -1,9 +1,0 @@
-Package: boost-core
-Version: 1.75.0
-Depends: boost-config, boost-vcpkg-helpers
-Architecture: x64-windows
-Multi-Arch: same
-Abi: af8bdf0e3d3a826379d53377a139c225ebc03a84
-Description: Boost core module
-Type: Port
-Status: install ok installed

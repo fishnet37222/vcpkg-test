@@ -1,9 +1,0 @@
-Package: boost-functional
-Version: 1.75.0
-Depends: boost-config, boost-core, boost-mpl, boost-preprocessor, boost-type-traits, boost-typeof, boost-utility, boost-vcpkg-helpers
-Architecture: x64-windows
-Multi-Arch: same
-Abi: 1ae2d7785b18de62c1df3bc5d204183c92d2a59c
-Description: Boost functional module
-Type: Port
-Status: install ok installed

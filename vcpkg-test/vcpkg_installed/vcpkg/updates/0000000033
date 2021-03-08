@@ -1,9 +1,0 @@
-Package: boost-system
-Version: 1.75.0
-Depends: boost-build, boost-config, boost-integer, boost-modular-build-helper, boost-vcpkg-helpers, boost-winapi
-Architecture: x64-windows
-Multi-Arch: same
-Abi: 1e77da3396adac0e273b274e3a14cec23f0cb07c
-Description: Boost system module
-Type: Port
-Status: install ok installed

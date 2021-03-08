@@ -1,9 +1,0 @@
-Package: boost-function-types
-Version: 1.75.0
-Depends: boost-config, boost-core, boost-detail, boost-mpl, boost-preprocessor, boost-type-traits, boost-vcpkg-helpers
-Architecture: x64-windows
-Multi-Arch: same
-Abi: 3fd8f38fbbfede8cdc82ec469598dbfc4ff0ef59
-Description: Boost function_types module
-Type: Port
-Status: install ok half-installed

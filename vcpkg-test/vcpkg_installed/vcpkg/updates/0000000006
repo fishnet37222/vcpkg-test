@@ -1,9 +1,0 @@
-Package: boost-compatibility
-Version: 1.75.0
-Depends: boost-vcpkg-helpers
-Architecture: x64-windows
-Multi-Arch: same
-Abi: ee51fed57c1602996b1191a8f41d4d984b819302
-Description: Boost compatibility module
-Type: Port
-Status: install ok half-installed

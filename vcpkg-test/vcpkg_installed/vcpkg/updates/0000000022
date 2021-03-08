@@ -1,9 +1,0 @@
-Package: boost-assert
-Version: 1.75.0
-Depends: boost-config, boost-vcpkg-helpers
-Architecture: x64-windows
-Multi-Arch: same
-Abi: a3752c1e1ac1d2597997e9fca1abff27c8f54393
-Description: Boost assert module
-Type: Port
-Status: install ok half-installed
